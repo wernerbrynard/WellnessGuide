@@ -2,7 +2,7 @@
 
 This source file is a derivative of the Stanford HealthGPT project
 
-Original SPDX-FileCopyrightText: 2023 Stanford University & Project Contributors (see ORIGINAL_CONTRIBUTORS.md)
+Original SPDX-FileCopyrightText: 2023 Stanford University & Project Contributors (see CONTRIBUTORS.md)
 
 Original SPDX-License-Identifier: MIT
 Modified by Werner Brynard
@@ -11,7 +11,7 @@ Modified by Werner Brynard
 
 # WellnessGuide
 
-WellnessGuide is a personal health iOS app that integrates with HealthKit data, utilizing AI to promote a healthier lifestyle. By analyzing the health data you allow the app to access, WellnessGuide provides insights tailored to you. The more data points provided, the richer the insights. 
+WellnessGuide is a personal health iOS app that integrates with HealthKit data, utilizing AI to promote a healthier lifestyle. By analyzing the health data you allow the app to access, WellnessGuide provides insights tailored to you. The more data points provided, the richer the insights.
 
 For developers and early adopters, please note that you must use your own OpenAI key for now. In the future, this requirement will be abstracted away.
 
@@ -19,7 +19,6 @@ For developers and early adopters, please note that you must use your own OpenAI
 
 - Personalized insights based on your HealthKit data.
 - AI-powered analysis using OpenAI's GPT models.
-- Completely optional data points; use as many or as few as you like.
 - User-friendly interface for a seamless health data interaction.
 - Built on the foundation of HealthGPT, extending its capabilities to a more personalized level.
 
@@ -38,9 +37,16 @@ If using the simulator, remember to manually input data in the Health app, other
 
 ## Contributing
 
-If you're interested in contributing, kindly check the [contribution guidelines](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md). The list of original contributors can be found in [`ORIGINAL_CONTRIBUTORS.md`](ORIGINAL_CONTRIBUTORS.md).
+If you're interested in contributing, kindly check the [contribution guidelines](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md). The list of contributors can be found in [`CONTRIBUTORS.md`](CONTRIBUTORS.md).
+
+## Acknowledgements
+
+This project is based on the Stanford HealthGPT project. We express our gratitude to Stanford University & the original contributors for their foundational work. Please refer to [`CONTRIBUTORS.md`](CONTRIBUTORS.md) for a list of the original contributors.
 
 ## License
 
 This project remains under the MIT License. For more details, view the [Licenses](LICENSES) file.
 
+---
+
+The comment section remains at the top for legal reasons, while the "Acknowledgements" section provides visible credit for the viewers on GitHub.

@@ -1,7 +1,7 @@
 #
-# This source file is part of the Stanford HealthGPT project
+# This source file is part of the WellnessGuide project
 #
-# SPDX-FileCopyrightText: 2023 Stanford University & Project Contributors (see CONTRIBUTORS.md)
+# SPDX-FileCopyrightText: 2023 Werner Brynard & Project Contributors (see CONTRIBUTORS.md)
 #
 # SPDX-License-Identifier: MIT
 #
@@ -12,14 +12,14 @@
 # In general, you can use the options available
 # fastlane gym --help
 
-scheme("HealthGPT")
+scheme("WellnessGuide")
 
-project("HealthGPT.xcodeproj")
+project("WellnessGuide.xcodeproj")
 
 export_options(
   {
     provisioningProfiles: {
-      "edu.stanford.bdhg.healthgpt" => "HealthGPT"
+      "com.wernerbrynard.wellnessguide" => "WellnessGuide"
     }
   }
 )

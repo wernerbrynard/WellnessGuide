@@ -1,7 +1,7 @@
 #
-# This source file is part of the Stanford HealthGPT project
+# This source file is part of the WellnessGuide project
 #
-# SPDX-FileCopyrightText: 2023 Stanford University & Project Contributors (see CONTRIBUTORS.md)
+# SPDX-FileCopyrightText: 2023 Werner Brynard & Project Contributors (see CONTRIBUTORS.md)
 #
 # SPDX-License-Identifier: MIT
 #
@@ -9,5 +9,5 @@
 # For more information about the Appfile, see:
 #     https://docs.fastlane.tools/advanced/#appfile
 
-app_identifier "edu.stanford.bdhg.healthgpt" # The bundle identifier of your app
+app_identifier "com.wernerbrynard.wellnessguide" # The bundle identifier of your app
 apple_id ENV["APPLE_ID"]  # Your Apple email address

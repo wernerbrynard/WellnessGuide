@@ -1,8 +1,8 @@
 <!--
 
-This source file is part of the Stanford HealthGPT project
+This source file is part of the WellnessGuide project
 
-SPDX-FileCopyrightText: 2023 Stanford University & Project Contributors (see CONTRIBUTORS.md)
+SPDX-FileCopyrightText: 2023 Werner Brynard & Project Contributors (see CONTRIBUTORS.md)
 
 SPDX-License-Identifier: MIT
 
