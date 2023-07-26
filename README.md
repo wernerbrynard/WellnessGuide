@@ -5,7 +5,7 @@ This source file is a derivative of the Stanford HealthGPT project
 Original SPDX-FileCopyrightText: 2023 Stanford University & Project Contributors (see ORIGINAL_CONTRIBUTORS.md)
 
 Original SPDX-License-Identifier: MIT
-Modified by [Your Name or Organization]
+Modified by Werner Brynard
 
 -->
 
